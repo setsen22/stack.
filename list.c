@@ -1,5 +1,6 @@
 #include "DS.h"
-
+#include <stdio.h>
+#include <stdlib.h>
 /* p-ийн зааж буй List-д x утгыг төгсгөлд хийнэ */
 void l_push_back(List *p, int x)
 {
