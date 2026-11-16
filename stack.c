@@ -1,4 +1,6 @@
 #include "DS.h"
+#include <stdio.h>
+#include <stdlib.h>
 /*
   p-ийн зааж буй Stack-т x утгыг оруулна
  */
