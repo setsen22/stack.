@@ -1,5 +1,6 @@
 #include "DS.h"
-
+#include <stdio.h>
+#include <stdlib.h>
 /* p-ийн зааж буй Queue-д x утгыг хийнэ */
 void q_push(Queue *p, int x)
 {
